@@ -10,4 +10,4 @@ I am Luca Rovera - a university student at the University of Queensland currentl
 > I am currently working on amassing a number of Microsoft Certificates, which can be seen below!
 
 
-<img src="https://github.com/W0nchichi/images/blob/main/Microsoft-Azure-Fundamentals-Certificate.png" alt="Azure Funamentals Certificate" width="200" />
+<img src="https://github.com/W0nchichi/images/blob/main/Microsoft-Azure-Fundamentals-Certificate.png" alt="Azure Funamentals Certificate" width="400" />
