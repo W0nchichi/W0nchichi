@@ -9,4 +9,4 @@ I am Luca Rovera - a university student at the University of Queensland currentl
 > [!IMPORTANT]
 > I am currently working on amassing a number of Microsoft Certificates, which can be seen below
 
-![Alt Text](https://learn.microsoft.com/media/profile/certificate-background.svg?branch=main)
+![Alt Text]([https://learn.microsoft.com/media/profile/certificate-background.svg?branch=main](https://learn.microsoft.com/api/credentials/share/en-us/LucaR-8141/FB4A96C6AA666BA5?sharingId=E252E03ACA0AFB8E))
