@@ -12,4 +12,4 @@ I am Luca Rovera - a university student at the University of Queensland currentl
 !)
 
 
-<img src="[https://learn.microsoft.com/api/credentials/share/en-us/LucaR-8141/FB4A96C6AA666BA5?sharingId=E252E03ACA0AFB8E](https://learn.microsoft.com/api/credentials/share/en-us/LucaR-8141/FB4A96C6AA666BA5?sharingId=E252E03ACA0AFB8E" alt="Sample Image" width="200" />
+<img src="C:\Users\lucag\OneDrive\Pictures\Screenshots" alt="Azure Funamentals Certificate" width="200" />
