@@ -6,4 +6,5 @@ I am Luca Rovera - a university student at the University of Queensland currentl
 - 🪄 Since 2020, I have participated in 5 game jams, and have come second place once!
 - ♠️ Most of my work is held by another user, @AskiiDev due to the high amount of collaboration!
 
-<a name="note"></a> I am currently working on amassing a number of Microsoft Certificates, which can be seen at the bottom of my page
+<a name="note"></a> 
+I am currently working on amassing a number of Microsoft Certificates, which can be seen at the bottom of my page
